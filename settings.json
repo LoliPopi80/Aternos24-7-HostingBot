@@ -1,9 +1,9 @@
 {
-  "name": "NaRe",
+  "name": "AFK Bot",
   "bot-account": {
     "username": "imgonnacream",
     "password": "",
-    "type": "mojang"
+    "type": "offline"
   },
   "server": {
     "ip": "The_Friends_SMP-IbiA.aternos.me",
