@@ -1,5 +1,5 @@
 {
-  "name": "AFK Bot",
+  "name": "NaRe",
   "bot-account": {
     "username": "imgonnacream",
     "password": "",
@@ -8,7 +8,7 @@
   "server": {
     "ip": "The_Friends_SMP-IbiA.aternos.me",
     "port": 61112,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
