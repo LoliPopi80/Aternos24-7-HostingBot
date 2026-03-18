@@ -8,18 +8,18 @@
   "server": {
     "ip": "SMP4U.play.hosting",
     "port": 1904,
-    "version": "1.21.11",
+    "version": "",
     "try-creative": false
   },
   "position": {
-    "enabled": false,
+    "enabled": true,
     "x": 0,
     "y": 100,
     "z": 0
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
+      "enabled": false,
       "password": "chalol78"
     },
     "anti-afk": {
