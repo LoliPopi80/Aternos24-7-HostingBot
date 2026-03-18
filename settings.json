@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "smp4u.progamer.me",
-    "port": 39702,
+    "ip": "SMP4U.play.hosting",
+    "port": 1904,
     "version": "1.21.11",
     "try-creative": false
   },
@@ -29,7 +29,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 100,
       "messages": [
         "היי",
         "זה שוב הבוט!!",
