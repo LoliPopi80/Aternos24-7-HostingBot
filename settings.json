@@ -19,7 +19,7 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": false,
+      "enabled": true,
       "password": "chalol78"
     },
     "anti-afk": {
@@ -50,11 +50,11 @@
     },
     "look-around": {
       "enabled": true,
-      "interval": 5000
+      "interval": 2800
     },
     "random-jump": {
       "enabled": true,
-      "interval": 10000
+      "interval": 700
     }
   },
   "modules": {
