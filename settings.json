@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "SMP4U.play.hosting",
-    "port": 25575,
+    "port": 1904,
     "version": "1.21.11",
     "try-creative": false
   },
